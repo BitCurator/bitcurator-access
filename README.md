@@ -5,7 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/bitcurator/bitcurator-access.svg)](https://github.com/bitcurator/bitcurator-access/issues)
 [![GitHub forks](https://img.shields.io/github/forks/bitcurator/bitcurator-access.svg)](https://github.com/bitcurator/bitcurator-access/network)
 
-Visit the Bitcurator Access Wiki
+## [https://github.com/BitCurator/bitcurator-access/wiki](Visit the Bitcurator Access Wiki) for complete project information.
 
 Looking for the releases, build instructions, or source code for BitCurator Access Webtools or BitCurator Access Redaction? You can find them in their respective repositories at:
 
