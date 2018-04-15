@@ -10,14 +10,17 @@ Visit the Bitcurator Access Wiki
 Looking for the releases, build instructions, or source code for BitCurator Access Webtools or BitCurator Access Redaction? You can find them in their respective repositories at:
 
   https://github.com/bitcurator/bitcurator-access-webtools
+  
   https://github.com/bitcurator/bitcurator-access-redaction
 
 ## BitCurator Access documentation, help, and other information
 
 A quick start guide for BitCurator Access Webtools is available at:
+
 [http://distro.ibiblio.org/bitcurator/docs/BCA-Quickstart.pdf](http://distro.ibiblio.org/bitcurator/docs/BCA-Quickstart.pdf)
 
 A quick start guide for BitCurator Access Redaction is available at:
+
 [http://distro.ibiblio.org/bitcurator/docs/BCR-Quickstart.pdf](http://distro.ibiblio.org/bitcurator/docs/BCR-Quickstart.pdf)
 
 Questions and comments can also be directed to the bitcurator-users list.
