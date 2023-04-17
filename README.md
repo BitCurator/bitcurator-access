@@ -8,7 +8,7 @@
 
 ## Visit the [BitCurator Access Wiki](https://github.com/BitCurator/bitcurator-access/wiki)
 
-Looking for the releases, build instructions, or source code for BitCurator Access Webtools or BitCurator Access Redaction? You can find them in their respective repositories at:
+Looking for the releases, build instructions, or source code for BitCurator Access Webtools or BitCurator Access Redaction? These tools have reached end-of-life and are no longer maintained, but you can find them in their respective repositories at:
 
   https://github.com/bitcurator/bitcurator-access-webtools
   
