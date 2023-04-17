@@ -22,7 +22,7 @@ A quick start guide for BitCurator Access Webtools is available at:
 
 A quick start guide for BitCurator Access Redaction is available at:
 
-[BitCurator Access Redaction PDF](https://github.com/BitCurator/bitcurator-access/blob/DOCS/update/docs/BCR-Quickstart.pdf)
+[BitCurator Access Redaction Quickstart PDF](https://github.com/BitCurator/bitcurator-access/blob/DOCS/update/docs/BCR-Quickstart.pdf)
 
 Questions and comments can also be directed to the bitcurator-users list.
 
